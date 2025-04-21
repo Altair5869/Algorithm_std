@@ -5,7 +5,7 @@
 <br>
 <br>
 
-### [Altair's std.](https://velog.io/@th0538/posts)
+### [📚 Altair's std.](https://velog.io/@th0538/posts)
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=th0538&color=dark)](https://velog.io/@th0538)
 
 ### [💻 카카오X구름 딥다이브 1차 팀 스터디](https://github.com/beta-tester-team2)
