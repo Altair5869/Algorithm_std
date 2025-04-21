@@ -5,6 +5,9 @@
 <br>
 <br>
 
+### [Altair's std.](https://velog.io/@th0538/posts)
+- Velog
+
 ### [💻 카카오X구름 딥다이브 1차 팀 스터디](https://github.com/beta-tester-team2)
 - 25.02.26 ~ 25.04.11
 
